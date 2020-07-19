@@ -5,4 +5,7 @@ Sean Connery ist ein James Bond Darsteller.
 * Gerührt nicht geschüttelt
 * Bond Girl
 * Aston Martin
+## Zitat
+> Ich gebe zu, dass ich gut bezahlt werde, aber es ist nicht 
+> mehr, als mir zusteht.
 
