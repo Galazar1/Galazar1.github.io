@@ -9,5 +9,5 @@ Sean Connery ist ein James Bond Darsteller.
 > Ich gebe zu, dass ich gut bezahlt werde, aber es ist nicht 
 > mehr, als mir zusteht.
 ##Bild
-<img src="URL" https://upload.wikimedia.org/wikipedia/commons/c/c8/SeanConneryJune08.jpg />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/SeanConneryJune08.jpg" />
 
